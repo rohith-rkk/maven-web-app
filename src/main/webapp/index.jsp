@@ -1,8 +1,8 @@
 <html>
 <body>
-<h1><font color='red'> Welcome to Ashok IT - Software Training Institute <font></h1>
+<h1><font color='green'> Welcome to My Jnekins JOb <font></h1>
 
-<a href="www.ashokit.in">Click Here To See Ashok IT Training Schedules</a>
+<a href="www.rohith.in">Click Here To See Ashok IT Training Schedules</a>
   
   <h2> Call Us : +91-9985396677  </h2>
   
